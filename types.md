@@ -1,0 +1,1 @@
+- [Spotify iFrame API types](https://media.files.artemjs.com/types/v1/spotify-iframe-api.d.ts)
